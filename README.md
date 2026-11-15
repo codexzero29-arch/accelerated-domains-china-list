@@ -4,7 +4,7 @@ Small PHP utilities that turn a domain list into DNS forwarder configuration for
 
 This repository is designed around a plain text file named `china_domains.txt`, where each line contains a domain name. The scripts generate DNS forwarding rules for:
 
-- dnsmasq
+- dnsmasq 
 - BIND
 - Unbound
 
